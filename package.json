@@ -1,0 +1,24 @@
+{
+  "name": "embryo",
+  "version": "1.0.0",
+  "description": "Project template builder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nickermancy/nickermancy-embryo.git"
+  },
+  "keywords": [
+    "project",
+    "template",
+    "generator"
+  ],
+  "author": "Robert Thornton",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nickermancy/nickermancy-embryo/issues"
+  },
+  "homepage": "https://github.com/nickermancy/nickermancy-embryo#readme"
+}
